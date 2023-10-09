@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "tech.showierdata.nounkownlogs.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin",
+		"SoundSystemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
